@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="aleatorio.css">
+    <title>Selo de Qualidade De Copiar e Colar</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header><div class="logo"><img src="Imagens\FODA-SE O TRABALHO.png" alt="Logo"></div></header>
+
+    <section>
+        <div class="menu">
+            <div class="naosei">
+                <h4>Linguagem de Baixo Nivel</h4>
+                <button>Linguagem de Montagem</button>
+                <button>Linguagem de Máquina</button>
+            </div>
+            <div class="naosei2">
+                <h4>Linguagem de Alto Nivel</h4>
+                <button>Imperativas</button>
+                <button>Orientadas a Objetos</button>
+                <button>Funcionais</button>
+                <button>Linguagens de Script</button>
+                
+            </div>
+    
+        </div>
+
+        <div class="conteudo1">
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Voluptatem repellat iure dolor dolores blanditiis, praesentium minima fuga eius
+                temporibus quod culpa! Dignissimos, itaque at quae non reiciendis ex natus quisquam.</p>
+        </div>
+
+    </section>
+    <footer>
+        <h2>VAI TOMAR NO CU FACULDADE</h2>
+    </footer>
+
+</body>
+
+</html>
